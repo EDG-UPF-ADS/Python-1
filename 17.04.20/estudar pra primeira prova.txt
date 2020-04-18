@@ -1,0 +1,5 @@
+estudar pra primeira prova:
+fatoreal
+tabuada
+numero primo
+numero perfeito= a soma dos divisores é o proprio numero. 
