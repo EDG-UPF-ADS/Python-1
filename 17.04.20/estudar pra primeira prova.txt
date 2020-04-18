@@ -3,3 +3,5 @@ fatoreal
 tabuada
 numero primo
 numero perfeito= a soma dos divisores é o proprio numero. 
+
+5%3 será 2. exemplo. teste
