@@ -10,4 +10,4 @@ while(k!=0):
             if(i%2!=0):
                 som+=i
         print(f'O Somatório é {som}')
-    k=1
+    k=-1

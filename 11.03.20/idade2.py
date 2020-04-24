@@ -1,0 +1,6 @@
+nome1=input('Digite o Nome do Primeiro Filho(a): ')
+n1=float(input('Digite a Idade Dele(a): '))
+nome2=input('Digite o Nome do Segundo Filho(a): ')
+n2=float(input('Digite a Idade Dele(a): '))
+soma=(n1+n2)
+print('Os filhos',nome1,'e',nome2,'somam a idade de',soma)
