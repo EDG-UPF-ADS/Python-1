@@ -1,0 +1,29 @@
+conjunto de comandos que dentro deles existem outros comandos que são executados várias vezes dentro do algoritmo. conforme uma condição de repetição.
+
+FOR i in range(3): (executará 3 vezes até que i atinja 3 que ai não executa mais) se for (5,9) ele vai executar 4 vezes porque quando atingir 9 não executa. 
+
+comandos dentro do FOR: o deslocamento para a direita que serão executados várias vezes... 
+
+se colocar um numero,outro numero, ele diz o valor inicial da variável e até  atingir o segundo valor. se não colocar nenhum numero ele assume que é 0 e vai até o numero que esta escrito.
+
+WHILE
+enquanto uma condição for atendida. 
+
+WHILE x FOR = o for precisamos saber quantas vezes irá repetir, precisa ter numero definido. while podemos ficar dentro sem saber quantas vezes iremos repetir. e WHILE não incrementa a variavel automaticamente. é necessário incrementar ali dentro. 
+
+FUAQ ler um valor para uma variável Z. calcular e mostrar a tabuada de 1 até 10 de Z. utlizar o comando FOR. 
+
+FUAQ le um valor para uma variavel X. calcular e mostrar o somatório dos numeros inteiros existentes entre 1 e x. utilizar comando for. 
+inteiros entre 1 e 7 são 2 3 4 5 6 pois é ENTRE. 
+ler valor pra X depois criar um for que vá de 2 até 6 e vai acumulando os valores e depois mostra o resultado. com o 7 tem que dar 20. 
+
+FUAQ le um valor para vairável Y. calcular e mostrar o fatorial de Y. 
+fatorial é multiplicação até chegar no numero. 5 é 1*2*3*4*5=120. 
+
+FUAQ ler variavel Z, calcular e mostrar o somatório dos valores PARES existentes entre 1 e z. 
+
+FUAQ ler 5 valores para x. verificar cada X se é par ou impar. 
+se PAR calcular e mostrar o somatório dos impares entre 1 e x cada vez.
+se X impar calcular e mostrar tabuada de 1 até 10 de x. 
+
+

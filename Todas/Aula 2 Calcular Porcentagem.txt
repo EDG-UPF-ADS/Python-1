@@ -1,0 +1,9 @@
+n1=int(input('Digite o Número Desejado:'))
+p1=int(input('Digite a Porcentagem Desejada:'))
+p2=int(input('Digite a Porcentagem da Porcentagem Desejada:'))
+porcent1=p1*0.1
+porcent2=p2*0.1
+totporcent=porcent1*porcent2
+calc2=totporcent*0.01
+calc=n1*calc2
+print('Os',totporcent,'% do Número Equivale a ',calc)

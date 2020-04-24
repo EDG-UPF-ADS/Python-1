@@ -1,0 +1,26 @@
+8 comandos - programas. 
+
+Entender bem o que o usuário precisa, e conhecer bem os 8 comandos que o PC sabe executar. 
+
+input que le valores. print que mostra valores na tela. "faça" que atribui um resultado á uma variável. 
+
+além de comandos precisamos criar variáveis, com o primeiro caractere sempre uma letra. 
+
+precisamos também usarmos constantes. valores fixos dentro do algorítmo, ou pode ser uma string entre aspas 'constante do tipo string'. 
+
+Multiplicadores aritméticos e até de atribuição. 
+
+%.0f é a quantidade das casas decimais na vírgula. 0 no caso é sem virgula. 
+
+joão 50%
+pedro 25%
+maria 10
+luiza 10 
+valmor 5
+
+
+12000
+3,5% criadores
+40 reais para hipodromo
+1.45% seguro
+10% do total descontando acima. 
