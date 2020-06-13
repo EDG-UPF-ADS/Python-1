@@ -1,0 +1,42 @@
+FUAQ lê uma matriz M[2][2] e um valor para a variável Y. Após,
+inserir num vetor V [4] os valores da matriz multiplicados pelo valor
+de Y.
+
+m=[[0 for i in range(2)] for i in range(2)]
+v=[0]*4
+#Le valores para a matriz
+for l in range (2):
+ for c in range (2):
+ m[l][c]=int(input('Digite Matriz: '))
+#Le um valor para a variável y
+y=int(input('Digite um valor para Y: '))
+cont=0
+#Insere valores no vetor multiplicado por Y
+for l in range (2):
+ for c in range (2):
+ v[cont]=m[l][c]*y
+ cont=cont+1
+# Mostra o vetor
+#for i in range(4):
+# print('V[',i,']= ',v[i])
+
+FUAQ lê valores para as duas primeiras colunas de uma matriz
+M[5][3]. Após, preencher a terceira coluna com a soma dos valores
+existentes em cada linha (considerando apenas as duas primeiras
+colunas).
+
+m = [[0 for i in range(3)] for i in range(5)]
+#Le valores para a matriz
+for l in range (5):
+ for c in range (2):
+ m[l][c]=int(input('Digite Matriz: '))
+#Insere valores na Terceira coluna
+for l in range (5):
+ acum=0
+ for c in range(2):
+ acum=acum+m[l][c]
+ m[l][2]=acum
+#Mostra a matriz
+ for l in range (5):
+ for c in range (3):
+ print('m[',l,'][',c,']= ',m[l][c])
